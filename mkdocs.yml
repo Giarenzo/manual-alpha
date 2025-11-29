@@ -1,0 +1,8 @@
+site_name: BCMS Manual – Alpha
+site_url: https://manual-alpha.bcms.ai
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
