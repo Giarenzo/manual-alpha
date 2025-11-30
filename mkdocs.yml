@@ -18,7 +18,7 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - 0. Index: shared/index.md
+  - 0. Index: index.md
   - 1. The Top Bar: "shared/The Top Bar.md"
   - 2. Live Feed: "shared/Live Feed.md"
   - 3. Dashboard: shared/Dashboard.md
