@@ -1,9 +1,9 @@
 site_name: BCMS® Ventur – System Manual
 site_url: https://manual-alpha.bcms.ai
-language: it
 
 theme:
   name: material
+  language: it
 
   # Logo and favicon (place these files under docs/images/)
   logo: images/bcms-logo-ventur.svg       # or .png
