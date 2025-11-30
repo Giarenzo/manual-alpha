@@ -1,0 +1,123 @@
+/* ----- Global layout & colors ----- */
+
+:root {
+    /* Main accent orange from old BCMS manual */
+    --bcms-accent: #f5a623;
+    --bcms-dark: #333333;
+    --bcms-grey-bg: #f5f5f5;
+    --bcms-sidebar-bg: #f2f2f2;
+  }
+  
+  /* Page background and content width */
+  .md-content {
+    max-width: 980px;
+  }
+  
+  /* Overall background similar to screenshot */
+  .md-main {
+    background-color: var(--bcms-grey-bg);
+  }
+  
+  .md-main__inner {
+    padding-top: 2.4rem;
+    padding-bottom: 2.4rem;
+  }
+  
+  /* ----- Sidebar / navigation ----- */
+  
+  .md-sidebar--primary {
+    background-color: var(--bcms-sidebar-bg);
+    border-right: 1px solid #e0e0e0;
+  }
+  
+  /* Logo area spacing */
+  .md-header__button.md-logo {
+    margin-left: 0.8rem;
+  }
+  
+  /* Nav text style */
+  .md-nav--primary .md-nav__item {
+    font-size: 0.95rem;
+  }
+  
+  .md-nav--primary .md-nav__link {
+    color: #777777;
+  }
+  
+  .md-nav--primary .md-nav__link--active,
+  .md-nav--primary .md-nav__link:focus,
+  .md-nav--primary .md-nav__link:hover {
+    color: var(--bcms-dark);
+    font-weight: 500;
+  }
+  
+  /* Remove heavy bullets from nav */
+  .md-nav__item .md-nav__link::before {
+    content: none;
+  }
+  
+  /* Numbered sections look tighter */
+  .md-nav--primary .md-nav__link span {
+    white-space: nowrap;
+  }
+  
+  /* ----- Typography ----- */
+  
+  /* Main headings: big, dark, with orange accent on first word if desired */
+  .md-typeset h1 {
+    font-size: 2.6rem;
+    font-weight: 700;
+    color: var(--bcms-dark);
+    margin-bottom: 1.2rem;
+  }
+  
+  .md-typeset h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--bcms-dark);
+    margin-top: 2.2rem;
+    margin-bottom: 0.8rem;
+  }
+  
+  /* Strong text slightly darker */
+  .md-typeset strong {
+    color: #222222;
+  }
+  
+  /* Optional: highlight first word of H1 if wrapped in span */
+  .md-typeset h1 .bcms-accent {
+    color: var(--bcms-accent);
+  }
+  
+  /* Body text */
+  .md-typeset {
+    font-size: 0.98rem;
+    line-height: 1.7;
+    color: #444444;
+  }
+  
+  /* Lists a bit more compact */
+  .md-typeset ul,
+  .md-typeset ol {
+    margin-top: 0.4rem;
+    margin-bottom: 0.8rem;
+  }
+  
+  /* Links */
+  .md-typeset a {
+    color: var(--bcms-accent);
+  }
+  
+  /* ----- Cards / custom highlight blocks if you want them ----- */
+  
+  .bcms-highlight {
+    background: #fffdf7;
+    border-left: 4px solid var(--bcms-accent);
+    padding: 0.8rem 1.1rem;
+    margin: 1.2rem 0;
+    border-radius: 4px;
+  }
+  
+  .bcms-highlight h3 {
+    margin-top: 0;
+  }

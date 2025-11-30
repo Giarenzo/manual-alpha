@@ -1,43 +1,52 @@
-site_name: BCMS Manual – Alpha
+site_name: BCMS® Ventur – System Manual
 site_url: https://manual-alpha.bcms.ai
+language: it
 
 theme:
   name: material
 
+  # Logo and favicon (place these files under docs/images/)
+  logo: images/bcms-logo-ventur.svg       # or .png
+  favicon: images/bcms-favicon.png
+
+  font:
+    text: "Poppins"
+    code: "JetBrains Mono"
+
+  palette:
+    - scheme: default
+      primary: white          # we’ll override colors via CSS vars
+      accent: orange
+
+  features:
+    - navigation.expand       # left menu always expanded
+    - navigation.sections
+    - navigation.indexes
+    - toc.integrate
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
 nav:
-  - Home: index.md
-  - Main: Main.md
-  - Live Feed: "Live Feed.md"
-  - Login & User: "Login & User.md"
-  - Dashboard: Dashboard.md
-  - The Top Bar: "The Top Bar.md"
-
-  - Administration:
-      - Overview: Administration/Administration.md
-      - Core Management: "Administration/Core Management.md"
-      - System: Administration/System.md
-
-  - Bird Deterrent System:
-      - Overview: "Bird Deterrent Sys/BirdDeterrentSys.md"
-      - System Status: "Bird Deterrent Sys/System Status.md"
-
-  - Event Management:
-      - Overview: "Event Management/Event Management.md"
+  - 0. Index: Main.md
+  - 1. The Top Bar: "The Top Bar.md"
+  - 2. Live Feed: "Live Feed.md"
+  - 3. Dashboard: Dashboard.md
+  - 4. Bird Deterrents: "Bird Deterrent Sys/BirdDeterrentSys.md"
+  - 5. Eventi:
+      - Panoramica: "Event Management/Event Management.md"
       - Detection: "Event Management/Detection.md"
       - Impact: "Event Management/Impact.md"
       - Inspection: "Event Management/Inspection.md"
-
-  - Statistics:
-      - Overview: Statistics/Statistics.md
-      - Detection: Statistics/Detection.md
-      - Impact: Statistics/Impact.md
-      - System: Statistics/System.md
-
-  - Utilities:
-      - Overview: Utilities/Utilities.md
-      - Notifications: Utilities/Notifications.md
-
-  - Info:
-      - Overview: Info/Info.md
-      - About: Info/About.md
-      - Support: Info/Support.md
+  - 6. Utilities:
+      - Panoramica: "Utilities/Utilities.md"
+      - Notifications: "Utilities/Notifications.md"
+  - 7. Statistics:
+      - Panoramica: "Statistics/Statistics.md"
+      - Detection: "Statistics/Detection.md"
+      - Impact: "Statistics/Impact.md"
+      - System: "Statistics/System.md"
+  - 8. Registers: "Registers.md"
+  - 9. Admin: "Administration/Administration.md"
+  - 10. Glossario: "Glossario.md"
