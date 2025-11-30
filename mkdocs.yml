@@ -18,24 +18,25 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - 0. Index: Main.md
-  - 1. The Top Bar: "The Top Bar.md"
-  - 2. Live Feed: "Live Feed.md"
-  - 3. Dashboard: Dashboard.md
-  - 4. Bird Deterrents: "Bird Deterrent Sys/BirdDeterrentSys.md"
+  - 0. Index: shared/index.md
+  - 1. The Top Bar: "shared/The Top Bar.md"
+  - 2. Live Feed: "shared/Live Feed.md"
+  - 3. Dashboard: shared/Dashboard.md
+  - 4. Bird Deterrents: "shared/Bird Deterrent Sys/BirdDeterrentSys.md"
   - 5. Eventi:
-      - Panoramica: "Event Management/Event Management.md"
-      - Detection: "Event Management/Detection.md"
-      - Impact: "Event Management/Impact.md"
-      - Inspection: "Event Management/Inspection.md"
+      - Panoramica: "shared/Event Management/Event Management.md"
+      - Detection: "shared/Event Management/Detection.md"
+      - Impact: "shared/Event Management/Impact.md"
+      - Inspection: "shared/Event Management/Inspection.md"
   - 6. Utilities:
-      - Panoramica: "Utilities/Utilities.md"
-      - Notifications: "Utilities/Notifications.md"
+      - Panoramica: "shared/Utilities/Utilities.md"
+      - Notifications: "shared/Utilities/Notifications.md"
   - 7. Statistics:
-      - Panoramica: "Statistics/Statistics.md"
-      - Detection: "Statistics/Detection.md"
-      - Impact: "Statistics/Impact.md"
-      - System: "Statistics/System.md"
-  - 8. Registers: "Registers.md"
-  - 9. Admin: "Administration/Administration.md"
-  - 10. Glossario: "Glossario.md"
+      - Panoramica: "shared/Statistics/Statistics.md"
+      - Detection: "shared/Statistics/Detection.md"
+      - Impact: "shared/Statistics/Impact.md"
+      - System: "shared/Statistics/System.md"
+  - 8. Registers: "shared/Registers.md"
+  - 9. Admin: "shared/Administration/Administration.md"
+  - 10. Glossario: "shared/Glossario.md"
+  
