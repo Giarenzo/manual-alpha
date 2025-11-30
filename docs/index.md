@@ -1,6 +1,3 @@
----
-
----
 # BCMS – Overview of the System
 
 ### Overview of BCMS
@@ -20,33 +17,3 @@ The intended audience for this manual includes:
 - **Technical Staff**: IT professionals and technicians who need to understand the system's technical aspects for troubleshooting and support.
 - **Bird Control Units (BCU)**: Teams tasked with monitoring and controlling bird activity at airports, ensuring the safety of aircraft operations.
 - **Airport Management**: Decision-makers who require insights into the system's capabilities and benefits for strategic planning and risk management.
-
-
-[[Index]]
-
-[[Login & User]]
-
-[[The Top Bar]]
-
-[[Live Feed]]
-
-[[Main]]
-
-[[Dashboard]]
-
-[[BirdDeterrentSys]]
-
-[[Event Management]]
-
-[[Utilities ]]
-
-[[Statistics]]
-
-[[Registers]]
-
-[[Administration]]
-
-[[Info]]
-
-[[Glossary]]
-
