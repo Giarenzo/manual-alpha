@@ -1,4 +1,1 @@
----
-
----
 This page contains an active link that redirects to the support site.

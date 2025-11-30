@@ -1,6 +1,3 @@
----
-
----
 This page displays all the active services running in the BCMS system. It allows users to see at a glance what is currently active or not and for what purpose, and to activate or stop a service, should that be necessary.
 
 ## The Top Bar

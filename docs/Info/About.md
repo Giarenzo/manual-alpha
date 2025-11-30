@@ -1,4 +1,1 @@
----
-
----
 This page contains information about the BCMS system, e.g. version, credits, licences, copyright.

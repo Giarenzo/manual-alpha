@@ -1,6 +1,3 @@
----
-
----
 This page provides detailed statistical insights and visualizations for impact-related events. It allows you to gain statistical insights thanks to the log of all events recorded manually in the impact form of the event management menu. User may then make data-informed safety decisions related to bird strikes.
 
 # Functions

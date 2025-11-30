@@ -1,6 +1,3 @@
----
-
----
 The Statistics section provides tools for analyzing detection data to understand bird activity patterns, assess risks, and improve area safety. 
 This page allows you to gain statistical insights thanks to the log of all events recorded by the system over the selected timeframe. User may then make data-informed decisions on this basis.
 

@@ -1,6 +1,3 @@
----
-
----
 # Inspection forms
 
 In this section, you will find three different tabs (accessible by submenus) allowing you to log inspection forms. The Inspection Forms facilitate detailed documentation of inspections related to bird strikes and other relevant activities. These forms are essential for maintaining accurate records and ensuring thorough inspections.

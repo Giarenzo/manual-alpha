@@ -1,6 +1,3 @@
----
-
----
 The section dedicated to deterrence and the operation of the cannon and falcon management system describes how to use the deterrent devices implemented in the BCMS system. These devices are crucial for keeping birds away from high-risk areas, thus improving the safety of operations.
 
 This page is a table of all bird deterrent systems active in the area.

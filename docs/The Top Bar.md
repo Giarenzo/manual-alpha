@@ -1,6 +1,3 @@
----
-
----
 The top bar is a reference menu that you will see in all pages of the user interface. Its purpose is to allow you to have all the most relevant pieces of information and functionalities always readily available
 
 # **Main Menu (Dropdown)**

@@ -1,6 +1,3 @@
----
-
----
 This page displays technical information on the BCMS system.
 
 # Control Panel tab

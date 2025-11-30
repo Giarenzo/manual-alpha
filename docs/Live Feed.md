@@ -1,6 +1,3 @@
----
-
----
 The Live Camera Controls section provides detailed guidelines for accessing, controlling, and utilizing live camera feeds within the BCMS system. This functionality is essential for real-time monitoring of bird activities and ensuring the safety and efficiency of operations.
 
 [https://app.sharefable.com/embed/demo/demo-live-feed-xu8t1rjbt9obb904](https://app.sharefable.com/embed/demo/demo-live-feed-xu8t1rjbt9obb904)

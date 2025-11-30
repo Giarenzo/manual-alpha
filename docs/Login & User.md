@@ -1,6 +1,3 @@
----
-
----
 # Login and User Management
 
 This section provides detailed instructions on how to log in to the BCMS system, including accepting the Terms & Conditions, accessing and updating your personal profile, and setting preferences for display, signals, and notifications. These steps ensure that users can securely access the system, customize their experience, and stay informed about important events and alerts within the BCMS environment.
