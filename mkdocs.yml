@@ -9,21 +9,10 @@ theme:
   logo: images/bcms-logo-ventur.svg       # or .png
   favicon: images/bcms-favicon.png
 
-  font:
-    text: "Poppins"
-    code: "JetBrains Mono"
-
   palette:
     - scheme: default
       primary: white          # we’ll override colors via CSS vars
       accent: orange
-
-  features:
-    - navigation.expand       # left menu always expanded
-    - navigation.sections
-    - navigation.indexes
-    - toc.integrate
-    - content.code.copy
 
 extra_css:
   - stylesheets/extra.css
