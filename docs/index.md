@@ -1,17 +1,52 @@
-# Welcome to MkDocs
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+---
+# BCMS – Overview of the System
 
-## Commands
+### Overview of BCMS
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The Bird Concentration Monitoring System (BCMS) is a state-of-the-art optical AI risk reduction and mitigation technology. It is designed to detect, classify, and manage birds and other obstacles around airports to minimize the risk of bird strikes and drone incursions. Utilizing UHD cameras, AI algorithms, and deep learning techniques, BCMS provides precise, real-time monitoring and analysis of bird activities and their associated risks. The system's primary goal is to enhance airport safety by automating bird detection and dispersal, thereby reducing operational costs and improving efficiency.
 
-## Project layout
+### Purpose of the Manual
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This manual aims to provide comprehensive guidance on using the BCMS system. It details the system's functionalities, step-by-step instructions for operation, and best practices for maintenance and troubleshooting. The goal is to ensure users can fully leverage the BCMS technology to enhance airport safety and efficiency. By following this manual, users will be able to effectively monitor, detect, and manage bird activity, ultimately reducing the risk of bird strikes and ensuring smoother airport operations.
+
+### Audience
+
+The intended audience for this manual includes:
+
+- **New Users**: Individuals who are new to the BCMS system and need detailed instructions to get started.
+- **Administrators**: Personnel responsible for managing and maintaining the BCMS system, ensuring it operates correctly and efficiently.
+- **Technical Staff**: IT professionals and technicians who need to understand the system's technical aspects for troubleshooting and support.
+- **Bird Control Units (BCU)**: Teams tasked with monitoring and controlling bird activity at airports, ensuring the safety of aircraft operations.
+- **Airport Management**: Decision-makers who require insights into the system's capabilities and benefits for strategic planning and risk management.
+
+
+[[Index]]
+
+[[Login & User]]
+
+[[The Top Bar]]
+
+[[Live Feed]]
+
+[[Main]]
+
+[[Dashboard]]
+
+[[BirdDeterrentSys]]
+
+[[Event Management]]
+
+[[Utilities ]]
+
+[[Statistics]]
+
+[[Registers]]
+
+[[Administration]]
+
+[[Info]]
+
+[[Glossary]]
+
