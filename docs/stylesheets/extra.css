@@ -8,19 +8,9 @@
     --bcms-sidebar-bg: #f2f2f2;
   }
   
-  /* Page background and content width */
-  .md-content {
-    max-width: 980px;
-  }
-  
   /* Overall background similar to screenshot */
   .md-main {
     background-color: var(--bcms-grey-bg);
-  }
-  
-  .md-main__inner {
-    padding-top: 2.4rem;
-    padding-bottom: 2.4rem;
   }
   
   /* ----- Sidebar / navigation ----- */
@@ -28,11 +18,6 @@
   .md-sidebar--primary {
     background-color: var(--bcms-sidebar-bg);
     border-right: 1px solid #e0e0e0;
-  }
-  
-  /* Logo area spacing */
-  .md-header__button.md-logo {
-    margin-left: 0.8rem;
   }
   
   /* Nav text style */
@@ -49,11 +34,6 @@
   .md-nav--primary .md-nav__link:hover {
     color: var(--bcms-dark);
     font-weight: 500;
-  }
-  
-  /* Remove heavy bullets from nav */
-  .md-nav__item .md-nav__link::before {
-    content: none;
   }
   
   /* Numbered sections look tighter */
